@@ -395,6 +395,11 @@
 .contact-info time{
 color:white;
 }
+.contact-link{ 
+color:white;
+
+}
+    
   
   .contact-title {
     color: var(--light-gray-70);
