@@ -392,6 +392,9 @@
     max-width: calc(100% - 46px);
     width: calc(100% - 46px);
   }
+.contact-info time{
+color:white;
+}
   
   .contact-title {
     color: var(--light-gray-70);
